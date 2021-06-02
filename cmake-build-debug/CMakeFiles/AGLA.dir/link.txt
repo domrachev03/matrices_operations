@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/AGLA.dir/main.cpp.o  -o AGLA.exe -Wl,--out-implib,libAGLA.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/MainFolder/programmes/CLIonProjects/AGLA/main.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+cmath
+-
+cstdio
+-
+
